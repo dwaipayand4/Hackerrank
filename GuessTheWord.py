@@ -44,7 +44,7 @@ class Solution:
                     k = master.guess(words[j])
 
                     if(k == 6):
-                        print('You guessed the secret word correctly.')
+                        print('You have guessed the secret word correctly.')
                         return
                     elif(k == -1):
                         print('Either you took too many guesses, or you did not find the secret word.')
