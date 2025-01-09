@@ -7,6 +7,7 @@ import sys
 # Complete the hourglassSum function below.
 def hourglassSum(arr):
     max=0
+    print(max)
     for i in range(0,4):
         for j in range(0,4):
 
