@@ -1,1 +1,2 @@
 # Hackerrank
+find solved algos
